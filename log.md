@@ -43,7 +43,7 @@ For further practice, help out at the JavaScript Basics discord threads in the A
 Checkout codewars for additional practice and challenges.
 
 ### **Side-note:**
-ava-labs/subnet-cli v0.0.4 was released today! Nothing exciting but glad to see progress made on Avalanche as one day will deploy my projects over der.
+[ava-labs/subnet-cli v0.0.4](https://github.com/ava-labs/subnet-cli/releases/tag/v0.0.4) was released today! Nothing exciting but glad to see progress made on Avalanche as one day will deploy my projects over der.
 
 ### **Links:**
 [Attempt to troubleshoot basic JavaScript error for student in AU Discord](https://discord.com/channels/1039895401832128532/1045032183968038932/1062119273146880040)
