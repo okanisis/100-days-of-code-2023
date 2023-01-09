@@ -18,7 +18,7 @@ How `this` is [explained at w3](https://www.w3schools.com/js/js_this.asp) is gre
 
 The way it was presented in AU was not very intro friendly imo so spent many hours reading the MDNS docs and asking ChatGPT to learn those references then create small challenges for me. ChatGPT was also helpful by breaking down some of the technical descriptions with real world examples and in simple terms to help absorb the material.
 
-Explored other possible decentralized web3 hosting solutions. These include IPFS which has some limitations (ie, gateways going down that are not pinned, or the pinned service going down itself!) and then found [fleek.xyz](https://fleek.xyz) which is built on the fleek network. Then there is Portrait.gg(https://join.portrait.gg) built on top of arweave but is in closed beta atm.
+Explored other possible decentralized web3 hosting solutions. These include IPFS which has some limitations (ie, gateways going down that are not pinned, or the pinned service going down itself!) and then found [fleek.xyz](https://fleek.xyz) which is built on the fleek network. Then there is [Portrait.gg](https://join.portrait.gg) built on top of arweave but is in closed beta atm.
 
 The idea of hosting the entire codebase of your dApp on-chain and in true web3-style is exciting!
 
