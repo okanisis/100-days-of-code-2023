@@ -47,3 +47,29 @@ Checkout codewars for additional practice and challenges.
 
 ### **🔗 Links**
 [Attempt to troubleshoot basic JavaScript error for student in AU Discord](https://discord.com/channels/1039895401832128532/1045032183968038932/1062119273146880040)
+
+***
+
+## 🗓️ Day 2: January 10, 2023
+
+### **🥵 Today's Progress**
+It was back to Alchemy University and JavaScript Basics! After wrapping my head around (kind of..) `this` keyword and `bind` etc I tackled Prototypes and Chains today and linking them with `Object.create` for example.
+
+They reminded me of building functions in `zsh` or `sh` which can take flags or options where Prototypes in JavaScript allow you to chain objects together with functions and add additional functionality to the core tool - like a library in python. It was definitely an easier ride to learn these than yesterday!
+
+Then it was on to `classes` and `constructors` which are a new interface to working with `prototypes`. Key concepts included creating new `instances` from `objects`, learning about `subclasses` using `extend` and the `super` method! 
+
+I took up the offer of some light bathroom reading in the course and enjoyed then learning about the differences in Binary, Decimal and Hexadecimal types and how they are handled. Can't wait to start playing with these somemore as they seem to be a core concept in Computer Science - which reminds me...
+
+### **😶‍🌫 Thoughts:**
+Touched base with instructor for the Ethereum Bootcamp on Discord and got reassured that it is self paced and ready to tackle anytime I'm ready! Looking forward to this program as I've got lots of great ideas for potential web3 projects.
+
+### **🗒️ Side-note**
+Keep an eye out for decentralized full web3 stack storage, hosting and development platforms and the advent of web3 social media this year!
+
+Do I wanna take that [3-month online Introduction to Computer Science Course from Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science)?
+
+### **🔗 Links**
+Say hello to the [#100DaysOfWeb3](https://blog.developerdao.com/the-100daysofweb3-challenge) challenge!
+
+[Radicle.xyz](https://radicle.xyz) looks great for hosting your own github projects in a decentralized manner while [GitCoin](https://gitcoin.co/) appears to be a place to submit applications for grants or connect with the community to network and develop my skills even further!
