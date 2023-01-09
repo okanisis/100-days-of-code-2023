@@ -1,14 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 08, 2023
+## Day 0: January 08, 2023
 
-**Today's Progress**: [It's Official!](https://twitter.com/TheRealOkanisis/status/1612255528268500992?s=20&t=7EvKmq8wo7KvtcGGKNUY9A)
+### **Today's Progress**
+[It's Official!](https://twitter.com/TheRealOkanisis/status/1612255528268500992?s=20&t=7EvKmq8wo7KvtcGGKNUY9A)
 
-**Thoughts:** Focusing on Alchemy University JavaScript and Ethereum Bootcamp. Working towards Avalanche!
+### **Thoughts:**
+Focusing on Alchemy University JavaScript and Ethereum Bootcamp. Working towards Avalanche!
 
-### Day 1: January 09, 2023
+***
 
-**Today's Progress**: Have made prior progress in Alchemy University JavaScript's **The Basics**. Today was a little different though as I ran into something a little more advanced.
+## Day 1: January 09, 2023
+
+### **Today's Progress**
+Have made prior progress in Alchemy University JavaScript's **The Basics**. Today was a little different though as I ran into something a little more advanced.
 
 Topics covered included: `this`, `bind` (`implicit binding` with `call-site`), and **Unbound** (aka, fixing the context of functions using: `closure`, `binding functions` and `arrow syntax`).
 
@@ -22,7 +27,8 @@ Explored other possible decentralized web3 hosting solutions. These include IPFS
 
 The idea of hosting the entire codebase of your dApp on-chain and in true web3-style is exciting!
 
-**Thoughts:** Ethereum Bootcamp is already underway and that class is around the week 6 mark. I don't know how I feel about being rushed but trying to understand this intro material as best as possible.
+### **Thoughts:**
+Ethereum Bootcamp is already underway and that class is around the week 6 mark. I don't know how I feel about being rushed but trying to understand this intro material as best as possible.
 
 The pace up to today was very nice but the content covered was a little more than expected and disrupted the pace more than I was comfortable with. Normally I would of struggled and spent countless hours on Google but ChatGPT was there and available to discuss the topics I was covering in specific and detail at a level that I could understand.
 
@@ -36,6 +42,8 @@ For further practice, help out at the JavaScript Basics discord threads in the A
 
 Checkout codewars for additional practice and challenges.
 
-**Side-note:** ava-labs/subnet-cli v0.0.4 was released today! Nothing exciting but glad to see progress made on Avalanche as one day will deploy my projects over der.
+### *Side-note:**
+ava-labs/subnet-cli v0.0.4 was released today! Nothing exciting but glad to see progress made on Avalanche as one day will deploy my projects over der.
 
-**Links:** [Attempt to troubleshoot basic JavaScript error for student in AU Discord](https://discord.com/channels/1039895401832128532/1045032183968038932/1062119273146880040)
+### **Links:**
+[Attempt to troubleshoot basic JavaScript error for student in AU Discord](https://discord.com/channels/1039895401832128532/1045032183968038932/1062119273146880040)
