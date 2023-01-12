@@ -150,5 +150,5 @@ I have great ideas for my first project and have been fleshing it out. Will shar
 
 ### **🔗 Links**
 Professional Networking:
-[Eden - by Developer_DAO](https://www.joineden.xyz/)
-[Metaintro, coming soon](https://twitter.com/metaintro)
+ - [Eden - by Developer_DAO](https://www.joineden.xyz/)
+ - [Metaintro, coming soon](https://twitter.com/metaintro)
