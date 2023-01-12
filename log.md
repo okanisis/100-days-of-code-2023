@@ -128,3 +128,27 @@ I'm afraid of [chimp-syndrome](https://pigeon.psy.tufts.edu/psych26/kohler.htm) 
  - [Solidity Docs](https://docs.soliditylang.org/)
  - [TypeScript Docs](https://www.typescriptlang.org/docs/)
  - [JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+ ## 🗓️ Day 4: January 12, 2023
+
+### **🥵 Today's Progress**
+Finished Alchemy University's: Data Structures > Array Manipulation. It was a really fun module and surpirsed that most of my solutions (which worked really well btw) were not similar to theirs but I checked what their answers were and my approaches were simply reducing lines of code into one.
+
+With that out of the way, it was time to take a breather from coding! I want an avalanche node! I found an old 2TB harddrive in my pile and decided to put that into an old laptop that had an extra bay - perfect!
+
+Deploying the node was very easy with [pre-built binaries for avalanchego](https://github.com/ava-labs/avalanchego/releases) and the [configuration of the avalanche node](https://docs.avax.network/nodes/build/run-avalanche-node-manually) was very straight forward - even have TLS to boot!
+
+I also setup [monitoring with grafana and prometheus and using Postman as RPC and localhost:3000 as grafana front-end](https://docs.avax.network/nodes/maintain/setting-up-node-monitoring)!
+
+Sync'ing as we speak and I'm building a full index'd node. Says to expect finish sync'ing in 6 days!
+
+### **😶‍🌫 Thoughts:**
+I think I'm going to tackle the second track in [learnweb3.io](https://learnweb3.io/) which is the Sophomore track and will take me through making a Uniswap like dApp! For tomorrow, going to start tonight!
+
+### **🗒️ Side-note**
+I have great ideas for my first project and have been fleshing it out. Will share more once I get to that point.
+
+### **🔗 Links**
+Professional Networking:
+[Eden - by Developer_DAO](https://www.joineden.xyz/)
+[Metaintro, coming soon](https://twitter.com/metaintro)
