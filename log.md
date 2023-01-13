@@ -128,6 +128,8 @@ I'm afraid of [chimp-syndrome](https://pigeon.psy.tufts.edu/psych26/kohler.htm) 
  - [Solidity Docs](https://docs.soliditylang.org/)
  - [TypeScript Docs](https://www.typescriptlang.org/docs/)
  - [JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+ 
+ ***
 
  ## 🗓️ Day 4: January 12, 2023
 
@@ -202,3 +204,45 @@ My pile of junk might not cut it:
  - [Avalanchego APIs](https://docs.avax.network/apis/avalanchego/apis)
  - [Postman Collection](https://docs.avax.network/apis/avalanchego/postman-avalanche-collection)
  - [Archlinux Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
+
+ ***
+
+ ## 🗓️ Day 6: January 14, 2023
+
+### **🥵 Today's Progress**
+Whoa! So today I deployed a website on fleek finally.
+
+![live on fleek](https://imgur.com/xlt41ps.png)
+
+It was so easy and I had a small hiccup trying to setup the dns records for a custom google domain I have for testing but after reading the fine print I finally got it all to work and it loads up at [indigenis.ca](https://indigenis.ca)
+
+This is going to be a place holder for a web3 portfolio which led me to find a [web3 portfolio template on github](https://github.com/pointer-gg/web3-portfolio-site) which in turn led me to a new web3 education site - everyone meet: [Pointer](https://pointer.gg)
+
+My avalanche node also finally finished syncing! It's the sync state one I mentioned yesterday and it's reporting `healthy` and processed by first 2 blocks for p-chain!
+
+![healthy report from postman](https://imgur.com/gLlhmnB.png)
+
+My first p-chain blocks:
+
+![first p-chain blocks](https://imgur.com/p0Za23X.png)
+
+### **😶‍🌫 Thoughts:**
+Consider using a [static site generator like Hugo or Jekyll](https://docs.ipfs.tech/how-to/websites-on-ipfs/static-site-generators/) - I went through the basic tutorials for them and they are really fun and easy. [Jekyll Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) and [Hugo Tutorial](https://gohugo.io/getting-started/quick-start/)
+
+### **🗒️ Side-note**
+Consider setting up a redirect for my [unstoppabledomains](https://unstoppabledomains.com/?ref=b890a8db99b546b) and [.ens](https://app.ens.domains/) domain to my new fleek portfolio site. Wait for gas fees to come down so can sign transaction for my ENS .eth domain!
+
+### **🔗 Links**
+**Setting Up Fleek with a Custom Domain Name and Github:**
+ - [IPFS - Introducing Fleek and Domain Names](https://docs.ipfs.tech/how-to/websites-on-ipfs/introducing-fleek/#domain-names)
+ - [Domain Management In Fleek](https://docs.fleek.co/domain-management/overview/)
+ - [Domain Forwarding in Google Domains](https://support.getshifter.io/en/articles/3080501-domain-forwarding-on-google-domains-zone-apex-naked-domain-to-www-prefixed-domain)
+ - [Fleek Custom DNS Domains and Upgrading with Google](https://docs.fleek.co/domain-management/custom-dns-domains/#how-to-upgrade-using-google-domains)
+ - [Fleek Domain Management for ENS](https://docs.fleek.co/domain-management/ens-domains/)
+
+ **Learning Resources:**
+  - [UseWeb3.xyz](https://www.useweb3.xyz/)
+  - [Pointer.gg](https://www.pointer.gg/)
+
+  **Development Tools:**
+   - [Stackblitz](https://stackblitz.com/) - check it out, live development for front ends and more!
