@@ -192,6 +192,9 @@ I also [applied to portrait.gg](https://beta.portrait.gg/join) [on twitter](http
 ### **🗒️ Side-note**
 Invest in some SSD to insert into your new/old tower that was donated!
 
+My pile of junk might not cut it:
+![old hard drives](https://i.imgur.com/CO3tlbN.png)
+
 ### **🔗 Links**
 **Today's References:**
  - [Run Avalanche Node Manually](https://docs.avax.network/nodes/build/run-avalanche-node-manually)
