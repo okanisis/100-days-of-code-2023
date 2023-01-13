@@ -152,3 +152,4 @@ I have great ideas for my first project and have been fleshing it out. Will shar
 Professional Networking:
  - [Eden - by Developer_DAO](https://www.joineden.xyz/)
  - [Metaintro, coming soon](https://twitter.com/metaintro)
+ - [Talent Protocol](https://beta.talentprotocol.com/join/okanisis)
