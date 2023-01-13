@@ -210,7 +210,7 @@ My pile of junk might not cut it:
  ## 🗓️ Day 6: January 14, 2023
 
 ### **🥵 Today's Progress**
-Whoa! So today I deployed a website on fleek finally.
+Whoa! So today I deployed a website on fleek.xyz finally and it [reads any pushes to a github repo](https://github.com/okanisis/random-planet-facts) for auto re-deployment! Fleek is so easy to use and beautiful.
 
 ![live on fleek](https://imgur.com/xlt41ps.png)
 
