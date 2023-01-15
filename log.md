@@ -247,3 +247,66 @@ Consider setting up a redirect for my [unstoppabledomains](https://unstoppabledo
   **Development Tools:**
    - [Stackblitz](https://stackblitz.com/) - check it out, live development for front ends and more!
    - [Glitch](https://glitch.com/)
+
+***
+
+## 🗓️ Day 7: January 15, 2023
+
+
+### **🥵 Today's Progress**
+### React and Next
+Learn basics of React project file structure,  `components` and commonly used hooks `useState`, `useEffect`, and `useRef`.
+
+Having JavaScript basic covered from Alchemy University actually really helped get throught his material!
+
+`Next` is a very useful tool for building webpages in `React` cause it replaces something called `React Router` making multi-page website creation streamlined. So a good intro was provided to the `Next` folder structure and the significance of the `public/` and `pages/` folders!
+
+### Gas Fees
+About Gas Fees was awesome! I don't know why I found [OPCODES](https://github.com/crytic/evm-opcodes) and how gas fees on Ethereum are currently calculated. Basically, when being compiled into bytecode - each smart contract and it's functions are first compiled down into `OPCODES` and each OPCODE is like a kernel level function for the ethereum virtual machine (`ADD`, `MUL`, `DIV`, `SUB`, `SHA3`, etc...) that has an associated gas cost! The more complex the transactions or smart contract, the more expensive the transactions can be!
+
+Prior to this, gas costs were estimated by a simple formula of:
+`gas fees = gas spent * gas price`
+
+ - **Gas Spent** is the total amount of gas (in gas units) that were used to execute the transaction
+ - **Gas Price** is the amount of ether you're willing to pay per gas unit of execution
+
+Currently they are calculated as follows:
+
+Blocks now have a **base gas** price fee which is the *minimum* price per unit of gas for getting a transaction included within the block being determined by the network based on the demand for block space. Base fees are burnt by the Ethereum network to offset issuance and reach an equilibrium by not inflating supply infinitely.
+
+In addition to the base fees, the **tipping (priority fees)** exist to compensate miners for executing and propogating user transactions. Often set by most wallets automatically, one can choose to set this manually where higher tip transactions tend to get higher priority.
+
+The formula to calculate gas fees changes to the following:
+
+`gas fees = gas spent * (base fees + priority fees)`
+
+> Predicting gas fees is also more reliable. For example, a wallet can with 100% certainty determine that the **maximum base fees** to be added to the next block is `current base fees (base fees of prev block) * 112.5%` = `202.8 * 112.5/100` or `228.1 Gwei`. The **minimum base fees** could be determined knowing a decrease could only be 12.5%: `current base fees (base fees of prev block) * 87.5%` = `202.8 * 87.5/100` or `177.45 Gwei`.
+
+> Wallets now know a minimum and maximum range of base fees to provide when supplying estimations. The **minimum** is the `current base fees * 87.5%`, and the **maximum** is the `current base fees * 112.5%` The user can then just adjust the tip, which is usually a fraction of the base fees, for the miner.
+
+### Gas Limits
+When transactions involve loops, or randomness, or rely on user input It's difficult to predict the amount of gas required for execution.
+
+As such, instead of specifying the exact gas cost when deciding how much fees to pay for the transaction, you can specify an upper bound limit.
+
+The **Gas Limit** which is set by the user refers to the maximum amount of gas (units) they're willing to pay for the transaction.
+
+> **If the transaction uses less gas than your limit, the unspent gas is refunded to their account.**
+
+The sender wallet must have `gas limit * gas price` ether to pay for gas. Any unspent gas will be refunded when the transaction gets executed and mined.
+
+> **If the transaction uses more gas than the limit, the transaction will fail and the gas will be gone!**
+
+I'm not going to go into deal about **Variable Block Sizes** or **Variable Base Fees** because I wanted the above here for general reference and it's long enough in the short form!
+
+But it's great to have a clear understanding of it all and know why base fees increase or decrease in the next block by a set rate of **12.5%** when the variable block size of **15M** is met or exceeded. This is why it's possible to pay multiple ETH in gas fees during high congestion!
+
+CHeck out this awesome educational web3 site [🛠️ETH.Build](https://eth.build/) and instructional videos:
+[![ETH.Build Playlist](https://img.youtube.com/vi/30pa790tIIA/0.jpg)](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
+
+Then I got an excellent primer on mining, consensus, Proof Of Stake (PoS) and Proof Of Work (PoW)!
+
+This sophomore track is shaping out to be highly informative.
+
+### **😶‍🌫 Thoughts:**
+Getting closer to building first dApp!
