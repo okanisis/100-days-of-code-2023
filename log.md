@@ -343,7 +343,7 @@ Only 20 in the collection! Minting live!
  - [**`Crypto Devs` NFT Minting Site**](https://lw3-nft-collection-okanisis.vercel.app/)
  - **Contract:** 0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
  - **Network:** Ethereum Goerli Testnet
- - **Etherscan:** https://goerli.etherscan.io/address/0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
+ - [**Etherscan**](https://goerli.etherscan.io/address/0x32AaD56995B2f5D81808ecA67429824FA7ebAd52)
 
 #### 3⃣ The ICO Has Arrived
 Now we get to reward the lucky NFT holders! That's just me for now.
