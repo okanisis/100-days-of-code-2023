@@ -389,6 +389,14 @@ Got to read about how the intiial price of a coin is affected by the arbitrary r
 
 Supply limits vs infinite supply are also influential in determining the viability of LP-tokens themselves which act as shares when a user provides liquidity. It matters if a LP token is minted when liquidity is added or comes from a circulating supply with a limit.
 
+#### Avalanche
+[Prepared a Ledger Live to use with Avalanche](https://docs.avax.network/subnets/create-a-mainnet-subnet#setting-up-your-ledger). This is needed to deploy [avalanche subnets](https://docs.avax.network/subnets) on mainnet and good to practice on testnet.
+
+I then transfered some testnet AVAX and we're in business - almost, one day.
+
+It worked!
+![](https://i.imgur.com/qyAU7FV.png)
+
 ### **😶‍🌫 Thoughts:**
 The primer on the math behind the AMM for the DeX has really got my attention. Means I'm interested and would like to become more fluent in it! It was great to see how to logically process the formulas then apply them to solidity! I need resources for this - could start with studying existing DeX AMM like Uniswap and their documentation or other protocols I'm interested in.
 
