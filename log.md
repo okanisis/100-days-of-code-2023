@@ -372,7 +372,6 @@ If majority of the voters vote for the proposal by the deadline, the NFT purchas
 
 5 minutes to vote for each proposal
 
-
  - [**`Crypto Devs` DAO Portal**](https://lw3-dao-tutorial-okanisis.vercel.app/)
  - **Contract (DAO):** 0xcD48AB815F6D50b8091291184771Ff5b2B3f4e34
  - **Contract (FakeNFT Marketplace):** 0x64e802A4E36396f0C64587a7A7Ce6c65acD1799F
