@@ -328,10 +328,10 @@ The deep dive on `allowance` and how it works in Smart Contracts was very good t
 #### 1⃣ The `Crypto Devs` Whitelist dApp
 Get whitelisted where first 10 are free for a `Crypto Dev` NFT!
 
-[**`Crypto Devs` Whitelist dApp Site**](https://lw3-whitelist-d-app-okanisis.vercel.app/)
-**Contract:** 0x86999411C206B28637959Df2aca9db4531Bb0615
-**Network:** Ethereum Goerli Testnet
-[**Etherscan**](https://goerli.etherscan.io/address/0x86999411C206B28637959Df2aca9db4531Bb0615)
+ - [**`Crypto Devs` Whitelist dApp Site**](https://lw3-whitelist-d-app-okanisis.vercel.app/)
+ - **Contract:** 0x86999411C206B28637959Df2aca9db4531Bb0615
+ - **Network:** Ethereum Goerli Testnet
+ - [**Etherscan**](https://goerli.etherscan.io/address/0x86999411C206B28637959Df2aca9db4531Bb0615)
 
 #### 2⃣ The `Crypto Devs` NFT Collection
 This project from LearnWeb3DAO introduced me to the `Ownable.sol` contract from `Openzeppelin` which helps manage the `Ownership` of a contract. Notably you can:
@@ -340,10 +340,10 @@ This project from LearnWeb3DAO introduced me to the `Ownable.sol` contract from 
 
 Only 20 in the collection! Minting live!
 
-[**`Crypto Devs` NFT Minting Site**](https://lw3-nft-collection-okanisis.vercel.app/)
-**Contract:** 0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
-**Network:** Ethereum Goerli Testnet
-**Etherscan:** https://goerli.etherscan.io/address/0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
+ - [**`Crypto Devs` NFT Minting Site**](https://lw3-nft-collection-okanisis.vercel.app/)
+ - **Contract:** 0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
+ - **Network:** Ethereum Goerli Testnet
+ - **Etherscan:** https://goerli.etherscan.io/address/0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
 
 #### 3⃣ The ICO Has Arrived
 Now we get to reward the lucky NFT holders! That's just me for now.
@@ -352,10 +352,10 @@ Now we get to reward the lucky NFT holders! That's just me for now.
  - `Crypto Dev` NFT holders get `10 CD` tokens (gas not included)
  - `1 CD` = `0.001 ETH` at time of ICO (goerli testnet)
 
-[**`Crypto Devs` ICO Site**](https://lw3-ico-okanisis.vercel.app/)
-**Contract:** 0xB48ac30bf6B3539DbFb51f1ab96d48136e69d944
-**Network:** Ethereum Goerli Testnet
-[**Etherscan**](https://goerli.etherscan.io/address/0xB48ac30bf6B3539DbFb51f1ab96d48136e69d944)
+ - [**`Crypto Devs` ICO Site**](https://lw3-ico-okanisis.vercel.app/)
+ - **Contract:** 0xB48ac30bf6B3539DbFb51f1ab96d48136e69d944
+ - **Network:** Ethereum Goerli Testnet
+ - [**Etherscan**](https://goerli.etherscan.io/address/0xB48ac30bf6B3539DbFb51f1ab96d48136e69d944)
 
 #### 4⃣ Introducting the `Crypto Devs DAO`!
 
@@ -367,12 +367,12 @@ Details:
  - If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed
  - 5 minutes to vote for each proposal
 
-[**`Crypto Devs` DAO Portal**](https://lw3-dao-tutorial-okanisis.vercel.app/)
-**Contract (DAO):** 0xcD48AB815F6D50b8091291184771Ff5b2B3f4e34
-**Contract (FakeNFT Marketplace):** 0x64e802A4E36396f0C64587a7A7Ce6c65acD1799F
-**Network:** Ethereum Goerli Testnet
-[**Etherscan (DAO)**](https://goerli.etherscan.io/address/0xcD48AB815F6D50b8091291184771Ff5b2B3f4e34)
-[**Etherscan (FakeNFT Marketplace)**](https://goerli.etherscan.io/address/0x64e802A4E36396f0C64587a7A7Ce6c65acD1799F)
+ - [**`Crypto Devs` DAO Portal**](https://lw3-dao-tutorial-okanisis.vercel.app/)
+ - **Contract (DAO):** 0xcD48AB815F6D50b8091291184771Ff5b2B3f4e34
+ - **Contract (FakeNFT Marketplace):** 0x64e802A4E36396f0C64587a7A7Ce6c65acD1799F
+ - **Network:** Ethereum Goerli Testnet
+ - [**Etherscan (DAO)**](https://goerli.etherscan.io/address/0xcD48AB815F6D50b8091291184771Ff5b2B3f4e34)
+ - [**Etherscan (FakeNFT Marketplace)**](https://goerli.etherscan.io/address/0x64e802A4E36396f0C64587a7A7Ce6c65acD1799F)
 
 #### AMM and DeX
 Had a great deep dive into the smart contract functional requirements for an automated market maker - what the differences are to a traditional AMM. The math was also really fun to review and learn how liquidity pools can be managed in a DeX  and how slippage is calculated depending on the core formula used for the AMM.
