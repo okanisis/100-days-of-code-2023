@@ -359,13 +359,19 @@ Now we get to reward the lucky NFT holders! That's just me for now.
 
 #### 4⃣ Introducting the `Crypto Devs DAO`!
 
-Details:
- - Anyone with a `CryptoDevs` NFT can create a proposal to purchase a fake NFT from a fake NFT marketplace
- - Everyone with a `CryptoDevs` NFT can vote `YAY` or `NAY` on active proposals
- - Each NFT counts as one vote for each proposal
- - Voter cannot vote multiple times on the same proposal with the same NFT
- - If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed
- - 5 minutes to vote for each proposal
+**Details:**
+Anyone with a `CryptoDevs` NFT can create a proposal to purchase a fake NFT from a fake NFT marketplace
+
+Everyone with a `CryptoDevs` NFT can vote `YAY` or `NAY` on active proposals
+
+Each NFT counts as one vote for each proposal
+
+Voter cannot vote multiple times on the same proposal with the same NFT
+
+If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed
+
+5 minutes to vote for each proposal
+
 
  - [**`Crypto Devs` DAO Portal**](https://lw3-dao-tutorial-okanisis.vercel.app/)
  - **Contract (DAO):** 0xcD48AB815F6D50b8091291184771Ff5b2B3f4e34
