@@ -325,7 +325,7 @@ These are key concepts to understand when building smart contracts and also tryi
 
 The deep dive on `allowance` and how it works in Smart Contracts was very good to know! It's an initial action that each wallet must take with a smart contract before they can do any kind of `transfer` from or to of the token in that contract.
 
-#### Building a Whitelist dApp
+#### 1⃣ The `Crypto Devs` Whitelist dApp
 Get whitelisted where first 10 are free for a `Crypto Dev` NFT!
 
 [**`Crypto Devs` Whitelist dApp Site**](https://lw3-whitelist-d-app-okanisis.vercel.app/)
@@ -333,7 +333,7 @@ Get whitelisted where first 10 are free for a `Crypto Dev` NFT!
 **Network:** Ethereum Goerli Testnet
 [**Etherscan**](https://goerli.etherscan.io/address/0x86999411C206B28637959Df2aca9db4531Bb0615)
 
-#### The `Crypto Devs` NFT Collection
+#### 2⃣ The `Crypto Devs` NFT Collection
 This project from LearnWeb3DAO introduced me to the `Ownable.sol` contract from `Openzeppelin` which helps manage the `Ownership` of a contract. Notably you can:
  - `transferOwnership` to a new owner from the current owner
  - `renounceOwnership` which is a notable **best practice** where the current owner will **relinquish administrative privilege** 
@@ -345,7 +345,7 @@ Only 20 in the collection! Minting live!
 **Network:** Ethereum Goerli Testnet
 **Etherscan:** https://goerli.etherscan.io/address/0x32AaD56995B2f5D81808ecA67429824FA7ebAd52
 
-#### The ICO Has Arrived
+#### 3⃣ The ICO Has Arrived
 Now we get to reward the lucky NFT holders! That's just me for now.
 
  - max of `10,000 CD` tokens
@@ -357,7 +357,7 @@ Now we get to reward the lucky NFT holders! That's just me for now.
 **Network:** Ethereum Goerli Testnet
 [**Etherscan**](https://goerli.etherscan.io/address/0xB48ac30bf6B3539DbFb51f1ab96d48136e69d944)
 
-#### Introducting the `Crypto Devs DAO`!
+#### 4⃣ Introducting the `Crypto Devs DAO`!
 
 Details:
  - Anyone with a `CryptoDevs` NFT can create a proposal to purchase a fake NFT from a fake NFT marketplace
