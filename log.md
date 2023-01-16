@@ -348,9 +348,11 @@ Only 20 in the collection! Minting live!
 #### 3⃣ The ICO Has Arrived
 Now we get to reward the lucky NFT holders! That's just me for now.
 
- - max of `10,000 CD` tokens
- - `Crypto Dev` NFT holders get `10 CD` tokens (gas not included)
- - `1 CD` = `0.001 ETH` at time of ICO (goerli testnet)
+**Details:**
+
+max of `10,000 CD` tokens
+`Crypto Dev` NFT holders get `10 CD` tokens (gas not included)
+`1 CD` = `0.001 ETH` at time of ICO (goerli testnet)
 
  - [**`Crypto Devs` ICO Site**](https://lw3-ico-okanisis.vercel.app/)
  - **Contract:** 0xB48ac30bf6B3539DbFb51f1ab96d48136e69d944
@@ -360,6 +362,7 @@ Now we get to reward the lucky NFT holders! That's just me for now.
 #### 4⃣ Introducting the `Crypto Devs DAO`!
 
 **Details:**
+
 Anyone with a `CryptoDevs` NFT can create a proposal to purchase a fake NFT from a fake NFT marketplace
 
 Everyone with a `CryptoDevs` NFT can vote `YAY` or `NAY` on active proposals
