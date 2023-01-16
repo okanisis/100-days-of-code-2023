@@ -418,19 +418,19 @@ I signed up for [a 30-day NFT newsletter primer from Zen Academy.](https://30day
 ## 🗓️ Day 9: January 17, 2023
 
 ### **🥵 Today's Progress**
-**Portrait.gg and Radicle.xyz:**
+#### **Portrait.gg and Radicle.xyz:**
 Started a web3 profile at beta.portrait.gg (have 2 invite codes to share!).
 
 Registered with radicle.xyz - a blockchain alternative to github. The transition is very easy it seems from radicle > github and was able to register it with my ENS domain.
 
-**Build Your Own DeX Like Uniswap:**
+#### **Build Your Own DeX Like Uniswap:**
 I graduated from Sophomore track at LearnWeb3.io - the best track I've had there so far!
 
 The DeX comes with two swap functions:
  - `GoerliETH` <-> `Crypto Devs`
  - `GoerliETH` + `Crypto Devs` <=> `Crypto Devs LP Token`
 
-**Details:**
+#### **Details:**
  - [**`Crypto Devs` DeX Site**](https://lw3-dex-tutorial-okanisis.vercel.app/)
  - **Contract:** 0x37Fb0E3Eb886A5a3159106832C4656CadE39D0fC
  - **Network:** Ethereum Goerli Testnet
