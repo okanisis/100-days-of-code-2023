@@ -544,3 +544,61 @@ I gotta get that donated tower cleaned up and sync'd to avalanche!!! I keep forg
  - [**LongHash Venture** - *web3 venture fund and accelorator*](https://www.longhash.vc/)
  - [**Spartan Group** - *advice, invest and build with the best entrepreneurs in web3*](https://spartangroup.io/)
  - *the list goes on...*
+
+***
+
+## 🗓️ Day 11: January 19, 2023
+
+### **🥵 Today's Progress**
+#### "indigenis" is ready for takeoff
+Got that donated tower cleaned up and ready to go! I just need to install **Arch Linux** on it now.
+
+It has an extra 2 pci-e slots which I might load up with some other GPUs if I find a good deal online nearby.
+
+It's a big difference, the before and after.
+![before](https://imgur.com/6k0z8rb.png)
+![after](https://imgur.com/KPH6Ato.png)
+
+![complete with case](https://imgur.com/aNbYBg1.png)
+
+![she's alive](https://imgur.com/1OZlJIf.png)
+
+It needs a bigger SSD for the node, which is going to be running off a WD 2TB 10,000 RPM HDD.
+
+Should be a little better than what the old laptop was doing and I have an `avalanchego` package ready to go cause I compiled from source and uploaded to my repo which I will make public soon! Polishing up my git/radicle repo to make the first `push` and am really excited that things are getting closer.
+
+#### Beginning Junior Track @ learnweb3.io
+Started the `Junior` track and it looks even more fun!
+
+![learnweb3io progress](https://imgur.com/ADIHcmn.png)
+
+I've come a long way since I've started to really invest time into the tech and deeper understandings. Still a long ways to go but I have a plan now and learnweb3.io is a part of that.
+
+There's components for **Radicle.xyz, ENS, IPFS, Ceramic, Chainlink, The Graph** and some background on Layer 1/2 and non-EVM blockchains.
+
+#### Layer 1/2
+The deep dive today had me learning about **Layer 1 & 2** - what are the differences and how they work together. Particularly with **channels** and **side chains**!
+
+**Rollups** was something I never really touched much on before. I've heard of them, but it was finally time to learn about **Optimistic** and **Zero-Knowledge** Rollups!
+
+The roles of `asserter`, `challenger`, and `verifier` are important to understand in **Optimistic Rollups** as they work together to provide security to the network.
+
+It's like a game of cat and mouse where the `asserter` provides a **bond** in the form of **ETH** for example to issue a rollup of transactions to the main chain. A `challenger` can then also issue a bond to, shall I say it: *challenge* the transactions. The `verifier` will then do their work and if found to fraudulent will take some of the `verifier`s bond and divy it up to the `challenger` and the `verifier`. How cool is that! The `asserter` can get the `challenger`'s bond in the event that the `verifier` determines the transactions are indeed valid!
+
+**Zero-Knowledge Rollups** are interesting as there is no `challenger` role cause the transactions in the rollup are verified instantly by the main chain. A `prover` is trusted to be able to prove to a `verifier` that the transaction is **true** without having to share any additional information. Strange...
+
+It's where the `asserter` can generate what's called a [zK-SNARK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) and the transaction requires no interactions between the `prover` and the `verifier`.
+
+Then meet [**Plasma**](https://ethereum.org/en/developers/docs/scaling/plasma/) which are essentially sub-chains of Ethereum where for example you can bridge ETH to receive **wETH**.
+
+**Data Availability** touched on **Validium** and **Volition** chains and how they hold data off-chain and can verify via hashed transactions (ie, at the end of the month) whereas everything that occurs off-chain can remain confidential like the actions of a venture capital firm or professional trading operator.
+
+### **😶‍🌫 Thoughts:**
+So many resources available and great groups, time to start really networking and finding ways to contribute to the various ecosystems.
+
+### **🔗 Links**
+ - [Learn Plasma](https://www.learnplasma.org/en/)
+ - [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/)
+ - [Ethereum Developer Docs GitHub](https://github.com/ethereum/ethereum-org-website/tree/dev/src/content/developers)
+ - [Nouns DAO - join or get funding](https://nouns.wtf/)
+ - [Radicle Grants!](https://forest-text-046.notion.site/Radicle-Grants-cf58bc44342d4e2f84605a701f41a137) 
