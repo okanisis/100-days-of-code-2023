@@ -561,7 +561,7 @@ It's a big difference, the before and after.
 
 ![complete with case](https://imgur.com/aNbYBg1.png)
 
-![she's alive](https://imgur.com/1OZlJIf.png)
+![she's alive](https://imgur.com/1OZlJIf)
 
 It needs a bigger SSD for the node, which is going to be running off a WD 2TB 10,000 RPM HDD.
 
