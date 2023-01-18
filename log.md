@@ -671,6 +671,10 @@ I feel really confident about my gameplan; both project and learning wise. The r
 ### **🗒️ Side-note**
 Hey, you can [pin tweets to IPFS](https://chrome.google.com/webstore/detail/pin-tweet-to-ipfs/bkbejdaeamaehgpodkjdbkhkofpijagn) - archive away! Especially if you know someone who likes to delete their tweets a lot! Make it permanent on IPFS.
 
+![pin tweet to ipfs button on twitter](https://imgur.com/UiLJX8U.png)
+![tweet pinned to ipfs](https://imgur.com/BIdscnX.png)
+![list of pinned tweets on ipfs](https://imgur.com/HUQ8Sin.png)
+
 ### **🔗 Links**
  - [**Truffle Suite's Ganache** - Run local blockchain for development and testing](https://trufflesuite.com/ganache/)
    - [**blog** on **truffle** usage in **vscode**](https://trufflesuite.com/blog/build-on-web3-with-truffle-vs-code-extension/)
